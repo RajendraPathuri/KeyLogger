@@ -1,5 +1,3 @@
-# Hacking_Tools
-
-Only for Educational purpose.
-
-I am not responsible for your misuse.
+# Writing a Keylogger in Python from Scratch
+To run this:
+- `pip install pynput
