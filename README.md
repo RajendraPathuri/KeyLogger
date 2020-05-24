@@ -1,3 +1,3 @@
-# Writing a Keylogger in Python from Scratch
+# Keylogger using Python
 To run this:
-- `pip install pynput
+- `pip install pynput` //in command prompt
